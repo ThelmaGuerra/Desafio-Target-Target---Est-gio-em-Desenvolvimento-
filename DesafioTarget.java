@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class teste {
+public class DesafioTarget {
 
     public void question1() {
 
@@ -76,7 +76,7 @@ public class teste {
     }
 
     public static void main(String[] args) {
-        teste t1 = new teste();
+        DesafioTarget t1 = new DesafioTarget();
         t1.question1();
         System.out.println(t1.question2(13));
         System.out.println(t1.question5("testando"));
